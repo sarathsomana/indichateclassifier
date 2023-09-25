@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "indichateclassifier"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+pandas = "^2.1.1"
+nltk = "^3.8.1"
+matplotlib = "^3.8.0"
+openpyxl = "^3.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
