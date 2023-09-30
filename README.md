@@ -18,6 +18,11 @@ Datasets used for each language are mentioned below.
 3. https://github.com/hate-alert/HateCheckHIn/blob/main/monolingual_functionalities.csv
 4. https://hasocfire.github.io/hasoc/2019/dataset.html
 
+#### Marathi :
+1. https://github.com/Kalit31/HASOC-2021/tree/main/data/marathi
+2. https://github.com/TharinduDR/DeepOffense/tree/master/examples/marathi/data
+3. https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaHate/2-class
+   
 ## Development Setup
 
 1. Please install [Poetry](https://python-poetry.org/docs/#installation)
