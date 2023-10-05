@@ -22,7 +22,10 @@ Datasets used for each language are mentioned below.
 1. https://github.com/Kalit31/HASOC-2021/tree/main/data/marathi
 2. https://github.com/TharinduDR/DeepOffense/tree/master/examples/marathi/data
 3. https://github.com/l3cube-pune/MarathiNLP/tree/main/L3Cube-MahaHate/2-class
-   
+
+#### Telugu :
+1. https://github.com/ShareChatAI/MACD/tree/main/dataset
+
 ## Development Setup
 
 1. Please install [Poetry](https://python-poetry.org/docs/#installation)
